@@ -1,0 +1,9 @@
+1. Run the software by clicking on the executable
+2. Open an Image File by clicking on the Open Image button
+3. To view the text for copying, click on the second button.
+4. To save the text as a file, select on the next button.
+5. Click on OSD to view Orientation and Script Details for that file
+6. Click on Encrypt to encrypt a text file, it will ask you to name a key of your choice that will be used to encrypt and decrypt the file.
+7. Name your encrypted file.
+8. Click on Decrypt button to decrypt any encrypted file but make sure you select the right key.
+9. Save your decrypted file.
