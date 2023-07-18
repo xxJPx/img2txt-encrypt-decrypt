@@ -7,3 +7,4 @@
 7. Name your encrypted file.
 8. Click on Decrypt button to decrypt any encrypted file but make sure you select the right key.
 9. Save your decrypted file.
+10.Make sure the requirements are met before running the project
